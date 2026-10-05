@@ -1,5 +1,4 @@
 <p align="center">
-  <br>
   <br><br>
 
   <sub>404 : ORDINARY DEVELOPER NOT FOUND</sub>
@@ -41,7 +40,7 @@
 
 # 🛰️ WHO AM I?
 
-I'm **Harsh**, a Computer Science student who became increasingly curious about the part of software most people never see.
+I'm **Harsh**, a Computer Science student curious about the part of software most people never see.
 
 The requests.
 
@@ -51,14 +50,14 @@ The authentication.
 
 The architecture.
 
-The logic quietly running behind the screen.
+The logic running quietly behind the screen.
 
-That's where I like to be.
+**That's where I like to be.**
 
-I'm currently focused on **Backend Development**, learning how ideas turn into APIs, services, data, and systems that can actually survive outside a tutorial.
+I'm currently exploring **Backend Development** — learning how an idea moves from a thought, to an API, to a system that can actually do something useful.
 
-> **I don't want to just use technology.**
->
+I don't want to just use technology.
+
 > **I want to understand what makes it work.**
 
 And then...
@@ -71,31 +70,53 @@ And then...
 
 ## 🛸 V-HACKS
 
-**An AI-powered innovation platform for hackathons.**
+> **An AI-powered innovation platform for hackathons.**
 
-V-HACKS is more than another project sitting on a GitHub repository.
+Not another tutorial project.
 
-It's where I'm taking everything I'm learning about backend development and forcing myself to put it together into something real.
+Not another repository created and forgotten.
 
-### Current orbit
+**V-HACKS is my current testing ground.**
+
+It's where I'm taking everything I'm learning about backend development and pushing it into one real system — APIs, authentication, databases, architecture, and the messy problems that don't come with a `solution.py`.
+
+### `MISSION OBJECTIVE`
+
+Build a platform that helps turn **hackathon ideas into structured innovation.**
+
+### `CURRENT STACK`
 
 ```text
-Python
-   │
-   ▼
-Django
-   │
-   ▼
-REST APIs
-   │
-   ▼
-Authentication
-   │
-   ▼
-PostgreSQL
-   │
-   ▼
-Backend Architecture
-   │
-   ▼
-Something actually useful
+                 ┌──────────────────┐
+                 │      PYTHON      │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │      DJANGO      │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │    REST APIs     │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │ AUTHENTICATION   │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │   POSTGRESQL     │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │    ARCHITECTURE  │
+                 └────────┬─────────┘
+                          │
+                          ▼
+                 ┌──────────────────┐
+                 │  SOMETHING REAL  │
+                 └──────────────────┘
